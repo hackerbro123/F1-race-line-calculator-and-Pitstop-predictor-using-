@@ -1,14 +1,11 @@
-# i
-Name
-Choose a self-explaining name for your project.
+
+
 
 Description
+============
+
  The project as you see it works to calculate the racing line of a particular corner of an f1 track.It's uses can include F1 TV graphics and racing games that are easily moddable such as Asseto Corsa.
 The racing line calculator also works to caluclate the racing line for any new track mathematically isntead of usinjg machine learning.
- 
-Visuals
-
-
 
 Requirements
 ==============
@@ -42,6 +39,7 @@ Refer to this link for the centre lines of the used tracks
 https://github.com/TUMFTM/racetrack-database
 
 License
+========
 I have used the MIT Lisence for this project
 
 Copyright 2022 Parth Khurana
