@@ -35,6 +35,13 @@ Run this code in your development environment
 import Package
 print(Package.__version__)
 
+Important Note
+===============
+
+Make sure you use keras.utils to import preprocessing.sequence_pads
+Use the latter if you use an older version than TensorFlow 2.9 ( I use 2.9.1)
+
+
 Acknowledgements
 =================
 
