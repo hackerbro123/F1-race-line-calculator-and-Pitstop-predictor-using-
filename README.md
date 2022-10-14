@@ -6,8 +6,6 @@ Name:F1 Pitstop prediction using Time ditributed LTSM regression
 Description
 ============
 
-
-
  The project as you see it works to calculate the racing line of a particular corner of an f1 track.It's uses can include F1 TV graphics and racing games that are easily moddable such as Asseto Corsa.
 The racing line calculator also works to caluclate the racing line for any new track mathematically isntead of using machine learning.
 
